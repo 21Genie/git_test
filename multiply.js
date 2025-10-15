@@ -3,3 +3,7 @@ const multiply = (a, b) => {
 		return a * b
 	}
 }
+
+const develop = (name, b) => {
+
+}
