@@ -4,6 +4,6 @@ const multiply = (a, b) => {
 	}
 }
 
-const develop = (name, b) => {
-
+const develop = (name) => {
+    console.log(name);
 }
