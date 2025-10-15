@@ -3,3 +3,4 @@ const sum = (a, b) => {
 }
 const a = 1
 let b = 4
+let bbb = 3
