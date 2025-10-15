@@ -6,4 +6,4 @@ function describe(name) {
 	console.log(name)
 }
 
-const update = 999;
+const update = 10;
