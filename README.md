@@ -8,11 +8,11 @@
 
 ![Скриншот приложения](./screenshots/articles-screenshot.png)
 
-### Страница профиля
+### Страница статьи
 
 ![Скриншот приложения](./screenshots/article-screenshot.png)
 
-### Страница профиля
+![Скриншот приложения](./screenshots/article-photo-code-screenshot.png)
 
 ![Скриншот приложения](./screenshots/rating-recomended-coments-screnshot.png)
 
